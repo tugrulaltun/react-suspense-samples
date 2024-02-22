@@ -1,0 +1,8 @@
+.loader {
+    opacity: 0;
+    transition: opacity 0.5s ease;
+}
+
+.loader-visible {
+    opacity: 1;
+}
